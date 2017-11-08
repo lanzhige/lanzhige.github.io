@@ -4,26 +4,40 @@
     detail: Zhejiang University
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Student Research Assistant at CAD&CG National Key Lab
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May 2015 - June 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Student Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: National University of Singapore
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Internship Researcher at SeSaMe Center
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2016 - June 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Internship Researcher
     i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: Arizona Statue University
+    i18n: company_c
+  desc:
+    detail: Graduate Research Assistant in VADER Lab
+    i18n: company_c_desc
+  date:
+    detail: Aug. 2017 - present
+    i18n: company_c_date
+  job:
+    detail: Graduate Research Assistant
+    i18n: company_c_job
   icon: fa-plus-square
