@@ -5,14 +5,14 @@
   i18n: jalpc
   gh_user: lanzhige
   repo: serika_trajectory_visualization
- # img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/trajvis.png
   desc: The trajectory visualization system is to visualize the change and trend of traffic flow in urban data. My job consists of a front-end website for component display and a back-end visualization data server for calculation tasks. The front-end visualization focuses on the distribution of traffics and the changes of trajectory directions. I used heatmap, radar chart, and patterns based on chord diagram to visualize the data on a website. The back-end server is implemented to provide the data to display. To speed up the calculation, I used GPU to parallel process the data. I have pushed the origin codes to my git repository.
 
 - name: Assembler FoolMips
   i18n: cpython
   gh_user: lanzhige
   repo: myMips-assembler
-#  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/foolmips.png
   desc: A assembler to assemble self designed MIPS like instruction set. I have pushed the origin codes to my git repository.
 
 - name: tc-Chinese-Chess
