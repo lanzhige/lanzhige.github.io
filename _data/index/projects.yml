@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Trajectory Visualization
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: lanzhige
+  repo: serika_trajectory_visualization
+ # img: /static/assets/img/landing/jekyll.png
+  desc: The trajectory visualization system is to visualize the change and trend of traffic flow in urban data. My job consists of a front-end website for component display and a back-end visualization data server for calculation tasks. The front-end visualization focuses on the distribution of traffics and the changes of trajectory directions. I used heatmap, radar chart, and patterns based on chord diagram to visualize the data on a website. The back-end server is implemented to provide the data to display. To speed up the calculation, I used GPU to parallel process the data. I have pushed the origin codes to my git repository.
 
-- name: Python
+- name: Assembler FoolMips
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: lanzhige
+  repo: myMips-assembler
+#  img: /static/assets/img/landing/python.png
+  desc: A assembler to assemble self designed MIPS like instruction set. I have pushed the origin codes to my git repository.
 
-- name: Google
+- name: tc-Chinese-Chess
+  i18n: cpython
+  gh_user: lanzhige
+  repo: tc-Chinese-Chess
+  img: /static/assets/img/landing/chess.png
+  desc: A Chinese Chess program written in Turbo C and run under dos environment. I have pushed the origin codes to my git repository.
+
+- name: 3D Meteorological Data Visualization
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+#  url: https://google.com
+  img: /static/assets/img/landing/3D.png
+  desc: This is a visualization system to display some meteorological data like temperature, wind, humidity material on the earth in a 3-dimension way.

@@ -3,16 +3,13 @@
   first_name:
   desc: 
   website: https://lanzhige.github.io/resume.pdf
-  #email: ceo@google.com
 
 - last_name: Linkedin
   first_name:
   desc: 
-  website: www.linkedin.com/in/lei-zhang-a95b63148
-  email:
+  website: https://www.linkedin.com/in/lei-zhang-a95b63148
 
 - last_name: Github Repository
   first_name:
   desc:
   website: https://github.com/lanzhige?tab=repositories
-  email:
