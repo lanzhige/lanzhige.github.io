@@ -13,17 +13,16 @@
   gh_user: lanzhige
   repo: myMips-assembler
   img: /static/assets/img/landing/foolmips.png
-  desc: A assembler to assemble self designed MIPS like instruction set. I have pushed the origin codes to my git repository.
+  desc: A assembler to assemble self designed MIPS like instruction set. Supporting up to 46 different commands. Used to assemble self-designed MIPS-like language. I have pushed the origin codes to my git repository.
 
 - name: tc-Chinese-Chess
   i18n: cpython
   gh_user: lanzhige
   repo: tc-Chinese-Chess
   img: /static/assets/img/landing/chess.png
-  desc: A Chinese Chess program written in Turbo C and run under dos environment. I have pushed the origin codes to my git repository.
+  desc: A Chinese Chess program written in Turbo C and run under dos environment. Support operation legality check, winning judgement, saving and loading game. I have pushed the origin codes to my git repository.
 
 - name: 3D Meteorological Data Visualization
   i18n: google
-#  url: https://google.com
   img: /static/assets/img/landing/3D.png
-  desc: This is a visualization system to display some meteorological data like temperature, wind, humidity material on the earth in a 3-dimension way.
+  desc: This is a visualization system to display some meteorological data like temperature, wind, humidity material on the earth in a 3-dimension way. It's a client software. My job in this program is writing UI, fixing logic problems in graphic render and change features by discussing with users.
