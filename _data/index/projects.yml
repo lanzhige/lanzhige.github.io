@@ -2,11 +2,11 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Trajectory Visualization
-  i18n: jalpc
+  i18n: google
   gh_user: lanzhige
   repo: serika_trajectory_visualization
   img: /static/assets/img/landing/trajvis.png
-  desc: The trajectory visualization system is to visualize the change and trend of traffic flow in urban data. I used heatmap, radar chart, and patterns based on chord diagram to visualize the data on the front-end webpage. The back-end server is implemented to provide the data to display. To speed up the calculation, I used GPU to parallel process the data. Please click to view the codes on my git repository.
+  desc: The trajectory visualization system is to visualize the change and trend of traffic flow in urban data. I realized heatmap, radar chart, and patterns based on chord diagram on the front-end webpage. To speed up the data calculation on the back-end, I used GPU to parallel process the data. Please click to view the codes on my git repository.
 
 - name: Ecological Region Visualization
   i18n: google
@@ -19,14 +19,14 @@
   desc: This is a visualization system to display some meteorological data like temperature, wind, humidity material on the earth in a 3-dimension way. It's a client software. My job in this program is writing UI, fixing logic problems in graphic render and change features by discussing with users.
 
 - name: Assembler FoolMips
-  i18n: cpython
+  i18n: google
   gh_user: lanzhige
   repo: myMips-assembler
   img: /static/assets/img/landing/foolmips.png
   desc: A assembler to assemble self designed MIPS like instruction set. Supporting up to 46 different commands. Used to assemble self-designed MIPS-like language. It's part of a course project to develop a Chinese character system on FPGA. Please click to view the codes on my git repository.
 
 - name: tc-Chinese-Chess
-  i18n: cpython
+  i18n: google
   gh_user: lanzhige
   repo: tc-Chinese-Chess
   img: /static/assets/img/landing/chess.png
