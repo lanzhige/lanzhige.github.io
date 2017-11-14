@@ -10,6 +10,8 @@
 
 - name: Ecological Region Visualization
   i18n: google
+  gh_user: lanzhige
+  repo: eco-region
   img: /static/assets/img/landing/eco-region.png
   desc: This is a recently started project to visualize the value of areas between protected areas which helps decision makers understand the importance of each region to do environmental protection. I’m currently working on preprocessing data to generate tiles of different zoom levels of the map. Please click to view the codes on my git repository.
 
