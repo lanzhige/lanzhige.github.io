@@ -26,22 +26,3 @@
   repo: myMips-assembler
   img: /static/assets/img/landing/foolmips.png
   desc: A assembler to assemble self designed MIPS like instruction set. Supporting up to 46 different commands. Used to assemble self-designed MIPS-like language. It's part of a course project to develop a Chinese character system on FPGA. Please click to view the codes on my git repository.
-
-- name: tc-Chinese-Chess
-  i18n: google
-  gh_user: lanzhige
-  repo: tc-Chinese-Chess
-  img: /static/assets/img/landing/chess.png
-  desc: A Chinese Chess program written in Turbo C and run under dos environment. Support operation legality check, winning judgement, saving and loading game. Please click to view the codes on my git repository.
-
-- name: MiniSQL
-  i18n: google
-  img: /static/assets/img/landing/minisql.png
-  desc: A command line program to imitate MYSQL which implements functions such as select operation, find operation, adding an index, etc. 
-
-- name: FoolPascal
-  i18n: google
-  img: /static/assets/img/landing/foolpascal.png
-  desc: A compiler of Pascal language includes checking lexical, syntactical errors. Used lex to help finishing lexical analysis, used Yacc to help parsing grammar.
-
-
