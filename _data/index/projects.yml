@@ -43,3 +43,8 @@
   i18n: google
   img: /static/assets/img/landing/foolpascal.png
   desc: A compiler of Pascal language includes checking lexical, syntactical errors. Used lex to help finishing lexical analysis, used Yacc to help parsing grammar.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> parent of 9d86771... remove useless
